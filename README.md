@@ -1,2 +1,3 @@
-# Hello-World
-This is my First Commit.
+# maven-project
+
+Simple Maven Project
